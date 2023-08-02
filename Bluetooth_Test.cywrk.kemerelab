@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Bluetooth_Test\Bluetooth_Test\TopDesign">
+<ExpandedNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Pins</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Analog</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Clocks</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Interrupts</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\System</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Directives</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Flash Security</v>
+<v>Bluetooth_Test\Bluetooth_Test\Header Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\Header Files\cyapicallbacks.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Source Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\Source Files\main.c</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Pins</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Analog</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Clocks</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Interrupts</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\System</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Directives</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.cydwr\Flash Security</v>
+<v>Bluetooth_Test\Bluetooth_Test\Header Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\Header Files\ble.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Header Files\cyapicallbacks.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Source Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\Source Files\main.c</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\ble</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\ble_bless_isr</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cy_boot</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfitter.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\cymetadata.c</v>
+<v>Bluetooth_Test\Bluetooth_Test\Generated_Source\PSoC4\project.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign</v>
+<v>Bluetooth_Test\Bluetooth_Test\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_bless_isr.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_custom.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_eventHandler.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_gatt.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_HAL_INT.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_HAL_PVT.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.elf</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.hex</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.map</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.gpdsc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.rpt</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_bless_isr.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_custom.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_eventHandler.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_gatt.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_HAL_INT.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\ble_HAL_PVT.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.elf</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.hex</v>
+<v>Bluetooth_Test\Bluetooth_Test\CortexM0\ARM_GCC_541\Debug\Bluetooth_Test.map</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.gpdsc</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test.rpt</v>
+<v>Bluetooth_Test\Bluetooth_Test\Bluetooth_Test_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\PSoC 4 Architecture TRM</v>
+<v>Bluetooth_Test\Bluetooth_Test\PSoC 4100 BLE Family Datasheet</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides\cy_boot_v6_10</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Bluetooth_Test\Bluetooth_Test\BLE_v3_66.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test</v>
+<v>Bluetooth_Test\Bluetooth_Test\PSoC 4 Architecture TRM</v>
+<v>Bluetooth_Test\Bluetooth_Test\PSoC 4100 BLE Family Datasheet</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides\cy_boot_v6_10</v>
+<v>Bluetooth_Test\Bluetooth_Test\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Bluetooth_Test\Bluetooth_Test\BLE_v3_66.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Bluetooth_Test.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Bluetooth_Test.cydsn\main.c" />
+<name v=".\Bluetooth_Test.cydsn\ble.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1197, 661" SelectedTabbedMdiWindow="f438a649-d166-4117-b801-05890bfab177"><DocumentWindow Key="\\Mac\Home\Documents\RICE-MARIA\Bluetooth_Test\Bluetooth_Test.cydsn\TopDesign\TopDesign.cysch" Guid="92d55a34-0714-48bd-a060-2af5f8bc74ad" /><DocumentWindow Key="\\Mac\Home\Documents\RICE-MARIA\Bluetooth_Test\Bluetooth_Test.cydsn\main.c" Guid="f438a649-d166-4117-b801-05890bfab177" /><DocumentWindow Key="\\Mac\Home\Documents\RICE-MARIA\Bluetooth_Test\Bluetooth_Test.cydsn\ble.h" Guid="5449f256-5b03-4bc0-9a69-55e62f795d85" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
